@@ -1,0 +1,44 @@
+{
+  "name": "utilitybend-creme",
+  "displayName": "Utilitybend Creme",
+  "description": "A warm creme light theme based on the utilitybend.com Prism palette.",
+  "version": "1.0.0",
+  "publisher": "utilitybend",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "creme",
+    "utilitybend",
+    "prism",
+    "warm"
+  ],
+  "galleryBanner": {
+    "color": "#f6f3ec",
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brechtDR/utilitybend-creme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brechtDR/utilitybend-creme/issues"
+  },
+  "homepage": "https://utilitybend.com",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Utilitybend Creme",
+        "uiTheme": "vs",
+        "path": "./themes/utilitybend-creme-color-theme.json"
+      }
+    ]
+  }
+}
