@@ -2,8 +2,8 @@
 
 A warm creme light theme for VS Code, Cursor, VSCodium, and any Open VSX-compatible editor. The light sibling of [Utilitybend Neon](https://github.com/brechtDR/utilitybend-neon), built from the Prism light palette used on [utilitybend.com](https://utilitybend.com), tuned for long sessions of writing HTML, CSS/SCSS, JS/TS, JSON, YAML, and Markdown.
 
-![Utilitybend Creme TypeScript preview](./images/preview-ts.png)
-![Utilitybend Creme CSS preview](./images/preview-css.png)
+![Utilitybend Creme TypeScript preview](https://raw.githubusercontent.com/brechtDR/utilitybend-creme/main/images/preview-ts.png)
+![Utilitybend Creme CSS preview](https://raw.githubusercontent.com/brechtDR/utilitybend-creme/main/images/preview-css.png)
 
 ## Palette
 
